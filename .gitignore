@@ -1,0 +1,17 @@
+# Compiled Binaries and Objects
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+
+# IDE & Editor files
+.vscode/
+.vs/
+*.swp
+*.user
